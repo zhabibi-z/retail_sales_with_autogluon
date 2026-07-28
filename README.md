@@ -9,7 +9,7 @@ A single notebook ([`Retail_Sales_&_RFM_with_AutoGluon.ipynb`](Retail_Sales_&_RF
 
 1. **EDA** — statistical summary, outliers, distributions, age/gender demographics, time-series of sales.
 2. **RFM segmentation** — customers scored by Recency, Frequency, and Monetary value and bucketed
-   into behavioural segments (Champions, Loyal, At Risk, …).
+   into behavioural segments (Champions, Loyal, At Risk, ...).
 3. **AutoGluon regression** — an AutoML benchmark predicting `Total Amount`.
 
 The dataset is pulled at runtime via `kagglehub` (`mohammadtalib786/retail-sales-dataset`).
