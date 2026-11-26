@@ -1,5 +1,7 @@
 # Retail Sales & RFM Analysis with AutoGluon
 
+findjng the total amount
+
 Exploratory analysis and **RFM customer segmentation** on the Kaggle *Retail Sales* dataset,
 plus a **leakage-free AutoGluon** regression benchmark for `Total Amount`.
 
